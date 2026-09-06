@@ -1,0 +1,14 @@
+{
+  "regression": {
+    "model": "RandomForestRegressor",
+    "test_R2": 0.1265694853029823,
+    "test_RMSE": 0.9069790528110621
+  },
+  "classification": {
+    "model": "RandomForestClassifier",
+    "test_accuracy": 0.3804080861515209,
+    "test_weighted_f1": 0.39740123994676124
+  },
+  "sklearn_version": "1.8.0",
+  "dataset_rows": 52930
+}
